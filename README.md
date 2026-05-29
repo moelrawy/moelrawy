@@ -2,7 +2,7 @@
 <h2 align="center">Software Engineer | .NET Developer | Full Stack</h2>
  
 <div align="center">
-  <a href="www.linkedin.com/in/mohamed-omar-elrawy">
+  <a href="https://www.linkedin.com/in/mohamed-omar-elrawy/">
     
   ![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Righteous&size=21&color=25E045&center=true&vCenter=true&width=500&height=53&pause=3000&duration=2000&lines=Check+out+my+popular+repos;+Follow+to+get+more+updates)
 </div>
