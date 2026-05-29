@@ -35,7 +35,7 @@
   ### 🏆 GitHub Trophies
   
    <p align="center">
-    <img src="https://github-profile-trophy.vercel.app/?username=ryo-ma&row=2&column=3">
+    <img src="https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=flat">
   </p>
 
 ![Snake Animation](https://raw.githubusercontent.com/A-Hemeda/A-Hemeda/output/github-contribution-grid-snake-dark.svg)
