@@ -34,8 +34,10 @@
 
   ### 🏆 GitHub Trophies
   
-  <p align="center">
-    <img src="https://github-profile-trophy-mohamed.vercel.app/?username=M-Omar&theme=onestar&no-bg=true&no-frame=true&row=1&column=7">
-  </p>
+ <p align="left">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=darkhub&no-frame=true&margin-w=15" alt="Trophies" />
+  </a>
+</p>
 
 ![Snake Animation](https://raw.githubusercontent.com/A-Hemeda/A-Hemeda/output/github-contribution-grid-snake-dark.svg)
