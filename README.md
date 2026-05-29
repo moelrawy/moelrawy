@@ -21,7 +21,7 @@
       <img src="https://static.vecteezy.com/system/resources/previews/020/964/377/non_2x/gmail-mail-icon-for-web-design-free-png.png" height="45"/></a> &nbsp;
     <a href="www.linkedin.com/in/mohamed-omar-elrawy">
       <img src="https://www.iconpacks.net/icons/1/free-linkedin-icon-130-thumb.png" height="45"/></a> &nbsp;
-    <a href="[https://www.whatsapp.com/channel/0029Vb3QWNLG8l5OPthU963O](https://wa.me/qr/F6HTWKTZRBXEO1)">
+    <a href=https://www.whatsapp.com/channel/0029Vb3QWNLG8l5OPthU963O">
       <img src="https://marketplace.canva.com/Vmp9Y/MAEvzQVmp9Y/1/tl/canva-whatsapp-status-icon-MAEvzQVmp9Y.png" height="45"/></a> &nbsp;
   </p>
 
@@ -29,7 +29,7 @@
 
   <p align="left">
     <img src="https://go-skill-icons.vercel.app/api/icons?i=cpp,cs,dotnet,angular,ts,sqlserver,html,css,js,postman,swagger,git&perline=6" style="height:105px;"/> &nbsp;
-    <img src="https://streak-stats.demolab.com/?user=a-hemeda&theme=highcontrast" height="105"/>
+    <img src="https://streak-stats.demolab.com/?user=moelrawy&theme=highcontrast" height="105"/>
   </p>
 
   ### 🏆 GitHub Trophies
