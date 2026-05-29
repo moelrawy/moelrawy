@@ -5,7 +5,7 @@
 </div>
 
   <p align="center">
-    <a href="[https://drive.google.com/file/d/1EeHR_2i_uwXXcqO0BDn08MU_azTKeUzq/view](https://drive.google.com/file/d/1hCHeFyw15eYcuAxpRLH0dyxqdH7ncH9N/view?usp=sharing)">
+    <a href="https://drive.google.com/file/d/1EeHR_2i_uwXXcqO0BDn08MU_azTKeUzq/view">
       <img src="https://img.shields.io/badge/My CV-005020?style=flat" style="height:35px; object-fit:contain;"/></a> &nbsp;
     <a href="">
       <img src="https://img.shields.io/badge/My Portfolio-005020?style=flat" style="height:35px; object-fit:contain;"/></a>
