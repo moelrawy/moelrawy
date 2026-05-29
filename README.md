@@ -19,7 +19,7 @@
   <p align="left">
     <a href="mailto:mohamed.omar.elrawy@gmail.com">
       <img src="https://static.vecteezy.com/system/resources/previews/020/964/377/non_2x/gmail-mail-icon-for-web-design-free-png.png" height="45"/></a> &nbsp;
-    <a href="www.linkedin.com/in/mohamed-omar-elrawy">
+    <a href="https://www.linkedin.com/in/mohamed-omar-elrawy/">
       <img src="https://www.iconpacks.net/icons/1/free-linkedin-icon-130-thumb.png" height="45"/></a> &nbsp;
     <a href=https://www.whatsapp.com/channel/0029Vb3QWNLG8l5OPthU963O">
       <img src="https://marketplace.canva.com/Vmp9Y/MAEvzQVmp9Y/1/tl/canva-whatsapp-status-icon-MAEvzQVmp9Y.png" height="45"/></a> &nbsp;
