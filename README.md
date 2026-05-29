@@ -34,8 +34,8 @@
 
   ### 🏆 GitHub Trophies
   
-   <p align="center">
-    <img src="https://github-profile-trophy.vercel.app/?username=moelrawy&theme=flat">
-  </p>
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+  <img src="https://github-profile-trophy.vercel.app/?username=moelrawy&theme=darkhub&no-frame=true&row=1&column=7" alt="GitHub Trophies" />
+</a>
 
 ![Snake Animation](https://raw.githubusercontent.com/A-Hemeda/A-Hemeda/output/github-contribution-grid-snake-dark.svg)
