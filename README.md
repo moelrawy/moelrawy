@@ -21,7 +21,7 @@
       <img src="https://static.vecteezy.com/system/resources/previews/020/964/377/non_2x/gmail-mail-icon-for-web-design-free-png.png" height="45"/></a> &nbsp;
     <a href="https://www.linkedin.com/in/mohamed-omar-elrawy/">
       <img src="https://www.iconpacks.net/icons/1/free-linkedin-icon-130-thumb.png" height="45"/></a> &nbsp;
-    <a href=https://wa.me/qr/F6HTWKTZRBXEO1">
+    <a href=https://wa.me/201030710752">
       <img src="https://marketplace.canva.com/Vmp9Y/MAEvzQVmp9Y/1/tl/canva-whatsapp-status-icon-MAEvzQVmp9Y.png" height="45"/></a> &nbsp;
   </p>
 
